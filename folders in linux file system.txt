@@ -1,7 +1,7 @@
 FOLDERS IN LINUX FILE SYSTEM
 
 
-File structure represents the flow of the operating system means, what is the operations going on with particular directory
+File structure represents the flow of the operating system means, what is the operations going on with particular directory 
 
 /----ROOT
 It is the parent directory of all directories
